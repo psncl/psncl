@@ -11,7 +11,9 @@ I am a former designer turned software engineer. I am big into complex systems a
 *   🚀  I'm currently working on an image search application.
 *   🧠  I'm currently learning Astro. I am also improving my computation skills through [CS61A](https://cs61a.org/) and [Discrete Mathematics](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/).
 *   👥  I'm looking to collaborate on projects involving .NET or SvelteKit.
-*   💬  Ask me about I enjoy going to local technology meetups and staying updated with latest practices.
+*   💬  I enjoy going to local technology meetups and staying updated with latest practices.
+
+### Some technologies I have worked with
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
@@ -28,7 +30,7 @@ I am a former designer turned software engineer. I am big into complex systems a
 <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
 </p>
-                  
+
 
 ### Socials
 
