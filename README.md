@@ -7,8 +7,8 @@ Software Engineer & Open Platform Enthusiast
 I am a former designer turned software engineer. I am big into complex systems and web platforms.
 
 *   🌍  I'm based in Northern United Kingdom
-*   ✉️  You can contact me at [sfd](mailto:sfd)
-*   🚀  I'm currently working on [an image search application.](http://example.com)
+*   ✉️  You can contact me through my website that should be up soon.
+*   🚀  I'm currently working on an image search application.
 *   🧠  I'm currently learning Astro. I am also improving my computation skills through CS61A and Discrete Math.
 *   👥  I'm looking to collaborate on projects involving .NET or SvelteKit.
 *   💬  Ask me about I enjoy going to local technology meetups and staying updated with latest practices.
