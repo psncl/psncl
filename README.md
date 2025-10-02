@@ -9,7 +9,7 @@ I am a former designer turned software engineer. I am big into complex systems a
 *   🌍  I'm based in Northern United Kingdom
 *   ✉️  You can contact me through my website that should be up soon.
 *   🚀  I'm currently working on an image search application.
-*   🧠  I'm currently learning Astro. I am also improving my computation skills through CS61A and Discrete Math.
+*   🧠  I'm currently learning Astro. I am also improving my computation skills through [CS61A](https://cs61a.org/) and [Discrete Mathematics](https://amzn.eu/d/1kYgGwE).
 *   👥  I'm looking to collaborate on projects involving .NET or SvelteKit.
 *   💬  Ask me about I enjoy going to local technology meetups and staying updated with latest practices.
 <p align="left">
