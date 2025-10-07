@@ -7,7 +7,7 @@ Software Engineer & Open Platform Enthusiast
 I am a former designer turned software engineer. I am big into complex systems and web platforms.
 
 *   🌍  I'm based in Northern United Kingdom
-*   ✉️  You can contact me through my website that should be up soon.
+*   ✉️  You can contact me through my website that I am creating with Astro as of October 2025. It should be online soon.
 *   🚀  I'm currently working on an image search application.
 *   🧠  I'm currently learning Astro. I am also improving my computation skills through [CS61A](https://cs61a.org/) and [Discrete Mathematics](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/).
 *   👥  I'm looking to collaborate on projects involving .NET or SvelteKit.
